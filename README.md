@@ -4,8 +4,8 @@ Sou iniciante em programação e este é meu primeiro desafio em java.
 | 🪧 Vitrine.Dev |     |
 | -------------  | --- |
 | ✨ Nome        | Imersão Java
-| 🏷️ Tecnologias | Java, Spring, MongoDB, Heroku, Postman
-| 🚀 URL         | 
+| 🏷️ Tecnologias | Java, Spring, MongoDB, AWS, Postman
+| 🚀 URL         | http://ec2-15-228-202-213.sa-east-1.compute.amazonaws.com:8080/linguagens
 | 🤿 Desafio | https://cursos.alura.com.br/imersoes (Imersao Java 1)
 
 # Objetivo
